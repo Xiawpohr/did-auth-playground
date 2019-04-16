@@ -71,7 +71,7 @@ const result = await axios.post(callback, {
 console.log(result.data)
 ```
 
-### To test the implementation
+### To run the implementation
 ```
 npm run server
 npm run client
